@@ -1,4 +1,4 @@
-### ✨ Hey there, you found me! ✨
+### 😇 Hey there, you found me! 😈
 - 👾 I’m currently learning Haskell.
 - 🐍 Love developing in Python.
 - 🔭 Expert in Theoretical Physics
