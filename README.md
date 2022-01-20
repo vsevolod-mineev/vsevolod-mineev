@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 👾 I’m currently learning Haskell.
+- 🐍 Love developing in Python.
+- 🧿 Expert in Theoretical Physics
+- 🔭 Currently working on SimpleX Chat.
+- 💃🏻 Love music, lasers and choreography.
+- 📫 How to reach me: vsevolod.mineev@gmail.com
+
 
 <!--
 **vsevolod-mineev/vsevolod-mineev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
