@@ -4,4 +4,5 @@
 - 🔭 Expert in Theoretical Physics
 - 🧿 Working to end government surveillance.
 - 🎶 Love music, lasers and choreography.
+- 💬 Ask me about everything and nothing.
 - 📫 How to reach me: vsevolod.mineev@gmail.com
