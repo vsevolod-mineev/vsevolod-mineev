@@ -3,7 +3,7 @@
 - 🐍 Love developing in Python.
 - 🧿 Expert in Theoretical Physics
 - 🔭 Currently working on SimpleX Chat.
-- 💃🏻 Love music, lasers and choreography.
+- 🎶 Love music, lasers and choreography.
 - 📫 How to reach me: vsevolod.mineev@gmail.com
 
 
